@@ -1,11 +1,11 @@
 name: Update Script Workflow
 
 on:
-  workflow_dispatch:
   pull_request:
     types:
       - opened
       - synchronize
+  workflow_dispatch:
 
 jobs:
   update_script:
