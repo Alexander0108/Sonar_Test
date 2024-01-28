@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.edu</groupId>
-    <artifactId>GitAction</artifactId>
-    <version>1.0</version>
+    <artifactId>SonarQube_Python_Local</artifactId>
+    <version>1.1</version>
 
     <packaging>war</packaging>
     <name>${project.artifactId}</name>
